@@ -1,0 +1,13 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="1em"
+  height="1em"
+  fill="currentColor"
+  class="bi bi-x"
+  viewBox="0 0 16 16"
+>
+  <path
+    fill-rule="evenodd"
+    d="M4.354 4.354a.5.5 0 0 1 .708 0L8 7.293l3.938-3.939a.5.5 0 1 1 .707.708L8.707 8l3.938 3.938a.5.5 0 0 1-.707.708L8 8.707l-3.939 3.938a.5.5 0 0 1-.708-.708L7.293 8 3.354 4.354a.5.5 0 0 1 0-.708z"
+  />
+</svg>

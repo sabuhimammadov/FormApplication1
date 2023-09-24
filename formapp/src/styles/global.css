@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,400;1,300&display=swap');
+@import url(./reset.css);
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background: #242A32;
+}
+
+
+
+
+.modal-content{
+    background-color: #242A32 !important;
+    color: #fff !important;
+}
+.modal-header{
+    border-bottom: none !important;
+}
+.modal-header .btn-close{
+    background-image: url(../assets/icons/clsoeButton.svg) !important;
+    font-size: 28px !important;
+}
+.modal-footer{
+    border-top: none !important;
+}
